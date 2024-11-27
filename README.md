@@ -1,4 +1,4 @@
 # hello im katie!
-i like backend dev (python, java, automation) and secdevops research. 
+i like web dev and cs theory. 
 
 ♡ website (not up rn) ♡ [contact](mailto:gholeaco@gmail.com) ♡
